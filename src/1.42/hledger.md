@@ -5145,7 +5145,7 @@ After the date line are zero or more time postings, consisting of:
 
     -   a number, optionally followed by a unit `s`, `m`, `h`, `d`, `w`,
         `mo`, or `y`, representing a precise number of seconds, minutes,
-        hours, days weeks, months or years (hours is assumed by
+        hours, days, weeks, months or years (hours is assumed by
         default), which will be converted to hours according to 60s =
         1m, 60m = 1h, 24h = 1d, 7d = 1w, 30d = 1mo, 365d = 1y.
 
